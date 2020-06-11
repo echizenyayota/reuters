@@ -16,11 +16,11 @@ At fisrt,I thought it was awkward when I heard it was a robot doing this.But whe
 
 ### D 0:41 - 0:56
 
-The robot uses 5G to talk with the server in real time an alarm goes off if it detects someone with a temparatue over 37.5 degree Celcius. It can also see who isn't wearing a mask while blurring people's faces to protect privacy.
+The robot uses 5G to talk with the server in real time.And an alarm goes off if it detects someone with a temparatue over 37.5 degree Celcius. It can also see who isn't wearing a mask while blurring people's faces to protect privacy.
 
 ### E 0:57 - 1:15
 
-One of the developers,Ro Kyong Fang says it could be used to prevent many health problems.Although it's named "The Coronavirus Preventional Robot".It's a really robot for any disease. Even if it's not the Coronavirus,the robot can be used to protect against outbreaks of other things like Influenza.
+One of the developers,Ro Kyong Fang says it could be used to prevent many health problems.Although it's named "The Coronavirus Preventional Robot,it's a really robot for any disease. Even if it's not the Coronavirus,the robot can be used to protect against outbreaks of other things like Influenza.
 
 ### F 1:15 - 1:32
 
